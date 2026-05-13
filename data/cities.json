@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Odemira",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2026-04-03T15:53:38.007Z",
+      "notes": "teat",
+      "position": {
+        "lat": "37.56199695314352",
+        "lng": "-8.613281250000002"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Singles",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-04-03T15:54:34.443Z",
+      "notes": "test",
+      "position": {
+        "lat": "45.583289756006316",
+        "lng": "2.5488281250000004"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Seulo",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2026-04-03T15:54:48.505Z",
+      "notes": "fas",
+      "position": {
+        "lat": "39.842286020743394",
+        "lng": "9.228515625000002"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Timimoun",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2026-04-03T15:55:03.594Z",
+      "notes": "be",
+      "position": {
+        "lat": "29.611670115197406",
+        "lng": "1.8457031250000002"
+      },
+      "id": 98443201
+    }
+  ]
+}
